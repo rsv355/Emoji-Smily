@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\krishnakumar\Downloads\emojicon-master (1)\example\example\build\intermediates\exploded-aar\example\lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="2a5d97184a1bf1d264366c877d4272d95ea5cb53">
+        <dex dex="C:\Users\krishnakumar\Downloads\emojicon-master (1)\example\example\build\intermediates\pre-dexed\debug\classes-0088402e702540a951a3449238f487dafd96fedd.jar" />
+    </item>
+    <item
+        jar="E:\Android Development\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\krishnakumar\Downloads\emojicon-master (1)\example\example\build\intermediates\pre-dexed\debug\support-v4-19.1.0-fd6263e90e2bbc3d101532f767be3b42cdb57656.jar" />
+    </item>
+
+</items>

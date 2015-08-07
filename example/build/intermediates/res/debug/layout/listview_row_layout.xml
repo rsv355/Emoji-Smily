@@ -1,0 +1,7 @@
+<github.ankushsachdeva.emojicon.EmojiconTextView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:emojicon="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    emojicon:emojiconSize="28sp"
+    /><!-- From: file:/C:/Users/krishnakumar/Downloads/emojicon-master%20(1)/example/example/src/main/res/layout/listview_row_layout.xml -->
